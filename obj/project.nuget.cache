@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPxlh79EUuU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eugene\\RiderProjects\\ConsoleApp1\\Lab_1_PA\\Lab_1_PA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.1\\system.diagnostics.performancecounter.8.0.1.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
